@@ -1,4 +1,4 @@
-* {
+body {
   font-family: helvetica;
   text-align: center;
 }
@@ -16,6 +16,30 @@ a:visited {
   color: white;
 }
 
-.header {
-  background-image: url("resources/images/building.png";
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.build {
+  background-image: url("./images/building.png");
+}
+
+p {
+  font-size: 14px;
+}
+
+#new-york {
+  color: white;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
