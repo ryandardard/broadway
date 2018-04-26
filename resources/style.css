@@ -1,0 +1,21 @@
+* {
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight:bold;
+  color: white;
+}
+
+a:link,
+a:hover,
+a:visited {
+  font-size: 18px;
+  color: white;
+}
+
+.header {
+  background-image: url("../images/building/png")
+}
